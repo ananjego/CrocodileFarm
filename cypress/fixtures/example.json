@@ -1,0 +1,8 @@
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "password": "Password1",
+  "sex": "F",
+  "dateOfBirth": "2019-01-01",
+  "updatedName": "Updated"
+}

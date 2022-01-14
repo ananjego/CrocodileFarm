@@ -1,0 +1,23 @@
+{
+  "name": "crocodilefarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananjego/CrocodileFarm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananjego/CrocodileFarm/issues"
+  },
+  "homepage": "https://github.com/ananjego/CrocodileFarm#readme"
+}
